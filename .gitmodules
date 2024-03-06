@@ -1,0 +1,18 @@
+[submodule "rdkit-rust-sys"]
+	path = rdkit-rust-sys
+	url = https://github.com/iSCBTeam/rdkit-rust-sys
+[submodule "ChemoDOTS-Frontend"]
+	path = ChemoDOTS-Frontend
+	url = https://github.com/iSCBTeam/ChemoDOTS-Frontend
+[submodule "rdkit-rust"]
+	path = rdkit-rust
+	url = https://github.com/iSCBTeam/rdkit-rust
+[submodule "rdkit-cffi-ll"]
+	path = rdkit-cffi-ll
+	url = https://github.com/iSCBTeam/rdkit-cffi-ll
+[submodule "rdkit"]
+	path = rdkit
+	url = https://github.com/iSCBTeam/rdkit
+[submodule "ChemoDOTS-Backend"]
+	path = ChemoDOTS-Backend
+	url = https://github.com/iSCBTeam/ChemoDOTS-Backend
